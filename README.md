@@ -1,1 +1,1 @@
-# AlgorithmExperienceForPoker
+# AlgorithmExperimentForKunchPocker
